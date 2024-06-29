@@ -1,4 +1,4 @@
-//Sat Jun 29 2024 04:18:28 GMT+0000 (Coordinated Universal Time)
+//Sat Jun 29 2024 04:19:48 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("顺丰速运"),
